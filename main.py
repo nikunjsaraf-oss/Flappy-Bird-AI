@@ -17,7 +17,7 @@ pygame.font.init()
 WIN_WIDTH = 500
 WIN_HEIGHT = 800
 
-FPS = 60
+FPS = 30
 BASE_POSITION = 730
 
 # Load Sprites
